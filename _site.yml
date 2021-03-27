@@ -11,9 +11,9 @@ navbar:
       href: "#edu"
     - text: "Work"
       href: "#work"
-    - text: "Contact"
-      href: "#contact"
   right:
+    - icon: fa-phone
+      href: "#contact"
 output:
   html_document:
     theme: readable
