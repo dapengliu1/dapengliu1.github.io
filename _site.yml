@@ -1,0 +1,21 @@
+name: "LIU Da-peng"
+output_dir: "."
+navbar:
+  title: "LIU Da-peng"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: "#pub"
+    - text: "Education"
+      href: "#edu"
+    - text: "Work"
+      href: "#work"
+    - text: "Contact"
+      href: "#contact"
+  right:
+output:
+  html_document:
+    theme: readable
+    highlight: monochrome
+    css: 'styles.css'

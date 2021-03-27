@@ -1,0 +1,294 @@
+---
+pagetitle: LIU Da-peng
+---
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+<h1 id="about">About Me</h1>
+<hr style="margin-top:-8px; border-width: 2px">
+
+<div>
+<img src="files/profile.jpg" style="width:30%; margin-right: 30px" align="left">
+
+Dapeng Liu is currently a Ph.D. candidate in KAUST of mechanical engineering and plans to defend his Ph.D. dissertation in May 2021. His background in laser diagnostic, fuel kinetics, and shock tube informs his concentrated but competitive approach. Dapeng is fueled by his passion for revealing the kinetics of fuel combustion such as soot formation and fuel oxidation. Dapeng considers himself a ‘forever student,’ eager to both build on his academic foundations in combustion diagnostic and stays updated with the latest diagnostic strategies.
+
+
+You can find my full CV [here](files/Dapeng_CV.pdf).
+</div>
+
+
+
+<h1 id="pub"> Publications</h1>
+<div class="row" style="margin-top:-5px">
+  Jump to year: &nbsp;
+  <a href="#2021">2021</a>,&nbsp;
+  <a href="#2020">2020</a>,&nbsp;
+  <a href="#2019">2019</a>,&nbsp;
+  <a href="#2018">2018</a>,&nbsp;
+  <a href="#2017">2017</a>.
+</div>
+
+
+<h3 id="2021"> 2021</h3> 
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218020305368)
+**First aromatic ring formation by the radical-chain reaction of vinylacetylene and propargyl**
+</span><br>
+<span>
+Hanfeng Jin, Lili Xing, <u>Dapeng Liu</u>, Junyu Hao, Jiuzhong Yang, Aamir Farooq
+</span><br>
+<span>
+*Combustion and Flame , 2021*
+</span><br>
+</p>
+</div>
+
+<h3 id="2020"> 2020</h3> 
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S1540748920304247)
+**On the Redox Reactions between Allyl Radicals and NOx**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Milán Szőri, Béla Viskolcz, Et-touhamiEssbar, Binod Giri, Aamir Farooq
+</span><br>
+<span>
+*Proceedings of the Combustion Institute, 2020*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S1540748920303515)
+**Kinetics and Thermochemistry of Cyclichexadienes Reactions with OH Radicals**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Milán Szőri, Béla Viskolcz, Lam K. Huynh, Binod Giri, Aamir Farooq
+</span><br>
+<span>
+*Proceedings of the Combustion Institute, 2020*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S1540748920304806)
+**High Temperature Branching Ratio of Acetaldehyde + OH Reaction**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Binod Giri, Aamir Farooq
+</span><br>
+<span>
+*Proceedings of the Combustion Institute, 2020*
+</span><br>
+</p>
+</div>
+
+
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S1540748920302509)
+**A high temperature shock tube study of phenyl recombination reaction using laser absorption spectroscopy**
+</span><br>
+<span>
+Hanfeng Jin, <u>Dapeng Liu</u>, Binod Giri,Aamir Farooq
+</span><br>
+<span>
+*Proceedings of the Combustion Institute, 2020*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218020301176)
+**Chemical kinetics of hydroxyl reactions with cyclopentadiene and indene**
+</span><br>
+<span>
+Hanfeng Jin, <u>Dapeng Liu</u>, Jiabiao Zou,Junyu Hao,Can Shao, Mani Sarathy,Aamir Farooq
+</span><br>
+<span>
+*Combustion and Flame, 2020*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://pubs.acs.org/doi/10.1021/acs.jpca.8b10997)
+**Insights into the Reactions of Hydroxyl Radical with Diolefins from Atmospheric to Combustion Environments**
+</span><br>
+<span>
+Fethi Khaled, Binod Giri, <u>Dapeng Liu</u>, Emmanuel Assaf, Christa Fittschen, Aamir Farooq
+</span><br>
+<span>
+*The Journal of Physical Chemistry A , 2020*
+</span><br>
+</p>
+</div>
+
+
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.mdpi.com/1424-8220/20/12/3602)
+**QCL-Based Dual-Comb Spectrometer for Multi-Species Measurements at High Temperatures and High Pressures**
+</span><br>
+<span>
+Guangle Zhang, Raphael Horvath, <u>Dapeng Liu</u>, Markus Geiser, Aamir Farooq
+</span><br>
+<span>
+*Proceedings of the Combustion Institute , 2020*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S1540748920305095)
+**A mid-infrared diagnostic for benzene using a tunable difference-frequency-generation laser**
+</span><br>
+<span>
+Mohammad Khaled Shakfa, Mhanna Mhanna, Hanfeng Jin, <u>Dapeng Liu</u>,Khalil Djebbi,Marco Marangoni, Aamir Farooq
+</span><br>
+<span>
+*Sensors , 2020*
+</span><br>
+</p>
+</div>
+
+
+<h3 id="2019"> 2019</h3> 
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://pubs.acs.org/doi/10.1021/acs.jpca.9b00691)
+**Cyclic Ketones as Future Fuels: Reactivity with OH Radicals (journal cover paper)**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Binod Giri, Aamir Farooq
+</span><br>
+<span>
+*The Journal of Physical Chemistry A , 2019*
+</span><br>
+</p>
+</div>
+
+
+<h3 id="2018"> 2018</h3> 
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S1540748918301858)
+**A shock tube kinetic study on the branching ratio of methanol+ OH reaction**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Binod Giri, Aamir Farooq
+</span><br>
+<span>
+*Proceedings of the Combustion A shock tube kinetic study on the branching ratio of methanol+ OH reaction*Institute, 2018*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://pubs.rsc.org/en/content/articlelanding/2018/cp/c8cp02075b#!divAbstract)
+**A theoretical and shock tube kinetic study on hydrogen abstraction from phenyl formate**
+</span><br>
+<span>
+Hongbo Ning, <u>Dapeng Liu</u>, Junjun Wu, Liuhao Ma, Wei Ren, Aamir Farooq
+</span><br>
+<span>
+*Physical Chemistry Chemical Physics, 2018*
+</span><br>
+</p>
+</div>
+
+<h3 id="2017"> 2017</h3> 
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.6b10576)
+**H-Abstraction by OH From Large Branched Alkanes: Overall Rate Measurements and Site-Specific Tertiary Rate Calculations**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Fethi Khaled, Binod Giri, Emmanuel Assaf, Christa Fittschen, Aamir Farooq
+</span><br>
+<span>
+*The Journal of Physical Chemistry A, 2017*
+</span><br>
+</p>
+</div>
+
+
+
+<h1 id="edu"> Education</h1>
+<div>
+<span>
+[<i class="fa fa-university"></i> ](https://ccrc.kaust.edu.sa/)
+**KAUST, Clean Combustion Research Center (CCRC)**
+</span><br>
+<span>
+<u>*PhD candidate in Mechanical Engineering*</u>
+<span><br>
+<span>
+Supervised by [Prof. Aamir Farooq](https://ccrc.kaust.edu.sa/people/detail/dr.-aamir-farooq)
+</span><br>
+<span>
+*Aug 2015 - Present, Jeddah, Saudi Arabia*
+</span><br>
+</p>
+</div>
+
+
+<div>
+<span>
+[<i class="fa fa-university"></i> ](http://en.xjtu.edu.cn/)
+**Xi'an Jiaotong University (XJTU)**
+</span><br>
+<span>
+<u>*Bachelor of energy and power engineering*</u>
+<span><br>
+<span>
+*Aug 2010 - Jun 2014, Xi'An, China*
+</span><br>
+</p>
+</div>
+
+
+<h1 id="work"> Work Experience</h1>
+<div>
+<span>
+[<i class="fa fa-factory"></i> ]()
+**Alfa Laval (Jiangyin) Manufacturing Co., Ltd.**
+</span><br>
+<span>
+<u>*Prodcution Engineer*</u>
+<span><br>
+<span>
+*Sep 2014 - Jun 2015, Wuxi, China*
+</span><br>
+</p>
+</div>
+
+
+<h1 id="contact"> Contact</h1>
+<div>
+<span>
+[<i class="fa fa-map-marked-alt"></i> ]() KAUST, Thuwal, Jeddah, 23955-6900, Saudi Arabia
+</span><br>
+<span>
+[<i class="fa fa-phone"></i> ]() +966 054-451-8521 
+</span><br>
+<span>
+[<i class="fa fa-envelope"></i> ]() "dapeng.liu" AT "kaust.edu.sa"
+</span>
+</div>
