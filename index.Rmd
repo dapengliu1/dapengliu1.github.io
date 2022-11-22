@@ -8,9 +8,9 @@ pagetitle: LIU Da-Peng
 <hr style="margin-top:-8px; border-width: 2px">
 
 <div>
-<img src="files/profile.jpg" style="width:15%; margin-right: 30px" align="right">
+<img src="files/profile.jpg" style="width:15%; margin-right: 30px" align="left">
 
-Dr. Liu is currently a Postdoc Research Associate at CUHK. He received the [Bernard Lewis Fellowship](https://www.combustioninstitute.org/resources/awards/bernard-lewis-fellowship/) at the 39th International Symposium on Combustion, Aug 2022. Earlier, he obtained a Ph.D. degree from KAUST in 2021.  Before KAUST, he finished his undergraduate study at Energy and Power Engineering College, Xi'an Jiaotong University. Dr. Liu's research facilitates environment-friendly energy sources and technology investigation. He employs various UV absorption diagnostic schemes in a kinetics shock tube. Such configuration provides highly-sensitive, time-resolved,non-intrusive, and nearly-isothermal measurements that are otherwise not easily available.
+Dapeng Liu is currently a Postdoc Research Associate at CUHK. He received the [Bernard Lewis Fellowship](https://www.combustioninstitute.org/resources/awards/bernard-lewis-fellowship/) at the 39th International Symposium on Combustion, Aug 2022. Earlier, he obtained a Ph.D. degree from KAUST in 2021.  Before KAUST, he finished his undergraduate study at Energy and Power Engineering College, Xi'an Jiaotong University. Dr. Liu's research facilitates environment-friendly energy sources and technology investigation. He employs various UV absorption diagnostic schemes in a kinetics shock tube. Such configuration provides highly-sensitive, time-resolved,non-intrusive, and nearly-isothermal measurements that are otherwise not easily available.
 
 
 You can find his CV [here](files/Dapeng_CV.pdf).
