@@ -51,6 +51,20 @@ You can find his CV [here](files/Dapeng_CV.pdf).
 <div>
 <span>
 [<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218023001554)
+**Reaction kinetics for high pressure hydrogen oxy-combustion in the presence of high levels of H2O and CO2**
+</span><br>
+<span>
+Ashkan Beigzadeh, ... ,<u>Dapeng Liu</u>, ..., Aamir Farooq
+</span><br>
+<span>
+*Combustion and Flame, 2023*
+</span><br>
+</p>
+</div>
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218023001554)
 **Investigation of thermal decomposition of nitrobenzene: An energetic material**
 </span><br>
 <span>
