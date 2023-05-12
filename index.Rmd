@@ -68,7 +68,7 @@ You can find his CV [here](files/Dapeng_CV.pdf).
 <div>
 <span>
 [<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218022004540)
-**Investigation of cyclohexene thermal decomposition and cyclohexene + OH reactions**
+**lolInvestigation of cyclohexene thermal decomposition and cyclohexene + OH reactions**
 </span><br>
 <span>
  <u>Dapeng Liu</u>, Aamir Farooq
