@@ -64,7 +64,7 @@ Ashkan Beigzadeh, ... ,<u>Dapeng Liu</u>, ..., Aamir Farooq
 
 <div>
 <span>
-[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218023001554)
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/abs/pii/S0010218023002286)
 **Investigation of thermal decomposition of nitrobenzene: An energetic material**
 </span><br>
 <span>
