@@ -10,7 +10,8 @@ pagetitle: LIU Da-Peng
 <div>
 <img src="files/profile.jpg" style="width:15%; margin-right: 30px" align="right">
 
-Dr. Dapeng Liu is currently a Postdoctoral Fellow at KAUST and previously served as a Research Associate at CUHK. He has been recognized for his exceptional research contributions and was awarded the prestigious Bernard Lewis Fellowship [Bernard Lewis Fellowship](https://www.combustioninstitute.org/resources/awards/bernard-lewis-fellowship/) at the 39th International Symposium on Combustion in August 2022. Dr. Liu obtained his Ph.D. degree from KAUST in 2021, building upon his strong foundation in Energy and Power Engineering with his undergraduate studies at Xi'an Jiaotong University.
+
+Dr. Dapeng Liu is currently a Postdoctoral Fellow at KAUST and previously served as a Research Associate at CUHK. He has been recognized for his exceptional research contributions and was awarded the prestigious Bernard Lewis Fellowship [Bernard Lewis Fellowship](https://www.combustioninstitute.org/resources/awards/bernard-lewis-fellowship/)at the 39th International Symposium on Combustion in August 2022. Dr. Liu obtained his Ph.D. degree from KAUST in 2021, building upon his strong foundation in Energy and Power Engineering with his undergraduate studies at Xi'an Jiaotong University.
 
 With a primary focus on investigating environment-friendly energy sources and technologies, Dr. Liu employs various UV absorption diagnostic schemes in a kinetics shock tube. This unique experimental configuration enables in situ, non-intrusive, highly sensitive, and time-resolved investigation of key reactions in combustion, providing insights that are otherwise challenging to obtain. Dr. Liu's research contributes to advancing our understanding of combustion processes and paves the way for more sustainable energy solutions.
 
@@ -23,6 +24,7 @@ You can find his CV [here](files/Dapeng_CV.pdf).
 <div style="margin-top:-5px">
 <span>
   Jump to year: &nbsp;
+  <a href="#2024">2024</a>,&nbsp;
   <a href="#2023">2023</a>,&nbsp;
   <a href="#2022">2022</a>,&nbsp;
   <a href="#2021">2021</a>,&nbsp;
@@ -31,6 +33,49 @@ You can find his CV [here](files/Dapeng_CV.pdf).
   <a href="#2018">2018</a>,&nbsp;
   <a href="#2017">2017</a>.
 </span>
+</div>
+
+<h3 id="2024"> 2024</h3> 
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218023006636)
+**Heptanone isomers as a biofuel: Reactivity with OH radicals**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Fethi Khaled, Aamir Farooq#
+</span><br>
+<span>
+*Proceedinngs of the Combustion Institue, Accepted*
+</span><br>
+</p>
+</div>
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218023006636)
+**Allylic-alkylic C-C bond decomposition in 1-butene and 1-pentene**
+</span><br>
+<span>
+ Chengyu Zhou, <u>Dapeng Liu#</u>, Aamir Farooq#
+</span><br>
+<span>
+*Combustion and Flame, 2024*
+</span><br>
+</p>
+</div>
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218024000312)
+**A theoretical and experimental study of 2-ethylfuran+ OH reaction**
+</span><br>
+<span>
+ Li Fu, <u>Dapeng Liu</u>,... , Hongbo Ning#, Wei Ren#, Aamir Farooq
+</span><br>
+<span>
+*Combustion and Flame, 2024*
+</span><br>
+</p>
 </div>
 
 
@@ -368,7 +413,7 @@ Hongbo Ning, <u>Dapeng Liu</u>, Junjun Wu, Liuhao Ma, Wei Ren, Aamir Farooq
 <u>*PhD of Mechanical Engineering*</u>
 <span><br>
 <span>
-Supervised by [Prof. Aamir Farooq](https://ccrc.kaust.edu.sa/people/detail/dr.-aamir-farooq)
+Supervised by [Prof. Aamir Farooq](https://faster.kaust.edu.sa)
 </span><br>
 <span>
 *Aug 2015 - Nov 2021, Jeddah, Saudi Arabia*
