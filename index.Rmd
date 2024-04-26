@@ -486,12 +486,12 @@ with [Prof. Wei Ren](https://www.rengroup.mae.cuhk.edu.hk/principal-investigator
 <h1 id="contact"> Contact</h1>
 <div>
 <span>
-[<i class="fa fa-map-marked-alt"></i> ]() Ho Sin-Hang Engineering Building(SHB), CUHK, HKSAR
+[<i class="fa fa-map-marked-alt"></i> ](https://maps.kaust.edu.sa/maps/#/?xy=510709.27,2467149.18&zoom=10)4th floor, Al-Kindi West Block, KAUST, KSA
 </span><br>
 <span>
-[<i class="fa fa-phone"></i> ]() +086 131-4939-9641 
+[<i class="fa fa-phone"></i> ]() +966 056-701-0084 
 </span><br>
 <span>
-[<i class="fa fa-envelope"></i> ]() "dapengliu" AT "cuhk.edu.hk"
+[<i class="fa fa-envelope"></i> ]() "dapeng.liu" AT "kaust.edu.sa"
 </span>
 </div>
