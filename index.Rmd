@@ -424,7 +424,7 @@ Hongbo Ning, <u>Dapeng Liu</u>, Junjun Wu, Liuhao Ma, Wei Ren, Aamir Farooq
 **KAUST, Clean Combustion Research Center (CCRC)**
 </span><br>
 <span>
-<u>*PhD of Mechanical Engineering*</u>
+<u>*Ph.D,[Mechanical Engineering](https://pse.kaust.edu.sa/the-mechanical-engineering-program)*</u>
 <span><br>
 <span>
 Supervised by [Prof. Aamir Farooq](https://faster.kaust.edu.sa)
@@ -442,7 +442,7 @@ Supervised by [Prof. Aamir Farooq](https://faster.kaust.edu.sa)
 **Xi'an Jiaotong University (XJTU)**
 </span><br>
 <span>
-<u>*Bachelor of Energy and Power Engineering College*</u>
+<u>*Bachelor, [Energy and Power Engineering School](https://epe.xjtu.edu.cn/home/Research/Key_Labs___Engineering_Center.htm)*</u>
 <span><br>
 <span>
 *Aug 2010 - Jun 2014, Xi'An, China*
@@ -492,6 +492,6 @@ with [Prof. Wei Ren](https://www.rengroup.mae.cuhk.edu.hk/principal-investigator
 [<i class="fa fa-phone"></i> ]() +966 056-701-0084 
 </span><br>
 <span>
-[<i class="fa fa-envelope"></i> ]() "dapeng.liu" AT "kaust.edu.sa"
+[<i class="fa fa-envelope"></i> ](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjDqLvzQDDhhGLbCkqNFcZmklgxKMccKhgZcHPwgMWKSjHxWhLXxQtpkgBsKgtmwlwhpL) "dapeng.liu" AT "kaust.edu.sa"
 </span>
 </div>
