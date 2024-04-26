@@ -53,6 +53,20 @@ You can find his CV [here](files/Dapeng_CV_2024.pdf).
 <div>
 <span>
 [<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218023006636)
+**Investigation of Cyclopentene + OH and Cyclopentene Thermal Decomposition Reactions**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Fethi Khaled, Wei Ren, Aamir Farooq#
+</span><br>
+<span>
+*Combustion and Flame, 2024*
+</span><br>
+</p>
+</div>
+
+<div>
+<span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218023006636)
 **Allylic-alkylic C-C bond decomposition in 1-butene and 1-pentene**
 </span><br>
 <span>
