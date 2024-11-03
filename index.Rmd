@@ -19,7 +19,7 @@ Dapeng has developed innovative UV absorption diagnostic techniques for combusti
 (3)	Branching Ratios: Pioneered three methodologies for measuring branching ratios, including deuterated molecules, isotopic labeling, and key product methods.
 (4)	Rate Rules: Addressing the challenge of kinetic measurements for large molecules and the needs of automatic kinetic modeling studies, rate rules were measured for three reaction classes using sensitive UV absorption diagnostics. These include OH + alkanes reactions, thermal decomposition of alkenes, and OH + alkenes. These rate rules enhance the predictive accuracy of existing literature models and facilitate automatic modeling studies.
 
-You can find his CV [here](Dapeng_resume_Nov_2024.pdf).
+You can find his CV [here](files/Dapeng_resume_Nov_2024.pdf).
 
 <img src="files/research.png" style="width:80%; margin-right: 30px" align="center">
 </div>
