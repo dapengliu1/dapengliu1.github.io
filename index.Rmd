@@ -11,19 +11,23 @@ pagetitle: LIU Da-Peng
 <img src="files/profile.jpg" style="width:15%; margin-right: 30px" align="right">
 
 
-Dr. Dapeng Liu is currently a Postdoctoral Fellow at KAUST and previously served as a Postdoctoral Research Associate at CUHK. He has been recognized for his exceptional research contributions and was awarded the prestigious [Bernard Lewis Fellowship](https://www.combustioninstitute.org/bernard_lewis_fellowship.php) at the 39th International Symposium on Combustion in August 2022.He served as a session chair at the 40th Proceedings of the Combustion Institute (Milano, July 2024), and received the SAS-CI Young Talent award as the  inaugural awardee. 
+Dr. Dapeng Liu is currently a Postdoctoral Fellow at KAUST and previously served as a Postdoctoral Research Associate at CUHK. He has been awarded the prestigious [Bernard Lewis Fellowship](https://www.combustioninstitute.org/bernard_lewis_fellowship.php) at the 39th International Symposium on Combustion (Vancouver, August 2022).He served as a session chair at the 40th Proceedings of the Combustion Institute (Milano, July 2024), and received the SAS-CI Young Talent award as the inaugural awardee (Jeddah, Nov 2024). 
 
-Dapeng has developed innovative UV absorption diagnostic techniques for combustion-relevant species. Under combustion conditions, where absorption spectra are typically ten times weaker than at room temperature, these diagnostics achieved impressive detection limits at the ppm level with sub-microsecond time resolution. These advancements have significantly enhanced the fidelity of kinetic measurements across various levels:
+Dapeng has developed innovative UV absorption diagnostic for multiple species. Under combustion conditions, where absorption spectra are typically ten times weaker than at room temperature, these diagnostics achieved impressive detection limits (ppm level) with sub-microsecond time resolution. These advancements have significantly enhanced the fidelity of kinetic measurements across various levels.
+
 (1)	Species Time-Histories: Serve as validation targets for kinetic models and markers of flame or ignition.
+
 (2)	Overall Rate Coefficients: Encompass various reaction types (radical reactions, concerted elimination reactions, unimolecular reactions, and bimolecular reactions), test conditions (oxidation and pyrolysis), and fuel types (conventional, bio-derived, low carbon, and carbon-free fuels).
+
 (3)	Branching Ratios: Pioneered three methodologies for measuring branching ratios, including deuterated molecules, isotopic labeling, and key product methods.
+
 (4)	Rate Rules: Addressing the challenge of kinetic measurements for large molecules and the needs of automatic kinetic modeling studies, rate rules were measured for three reaction classes using sensitive UV absorption diagnostics. These include OH + alkanes reactions, thermal decomposition of alkenes, and OH + alkenes. These rate rules enhance the predictive accuracy of existing literature models and facilitate automatic modeling studies.
 
-You can find his CV [here](files/Resume_Nov_2024.pdf).
-
-<img src="files/research.png" style="width:80%; margin-right: 30px" align="center">
+Spectroscopy illustrates the ambiguous pathway of energy conversion:
+<img src="files/research.jpg" style="width:80%; margin-right: 30px" align="center">
 </div>
 
+You can find his CV [here](files/Resume_Nov_2024.pdf).
 
 
 <h1 id="pub"> Publications</h1>
@@ -305,6 +309,8 @@ Hanfeng Jin, Lili Xing, <u>Dapeng Liu</u>, Junyu Hao, Jiuzhong Yang, Aamir Faroo
 </span><br>
 </p>
 </div>
+
+<img src="files/journal_cover.jpg" style="width:40%; margin-right: 40px" align="center">
 
 <h3 id="2020"> 2020</h3> 
 <div>
