@@ -46,6 +46,8 @@ You can find his CV [here](files/Resume_Nov_2024.pdf).
 </span>
 </div>
 
+<img src="files/journal_cover.jpg" style="display: block; margin-left: auto; margin-right: auto;">
+
 <h3 id="2025"> 2025</h3> 
 <div>
 <span>
