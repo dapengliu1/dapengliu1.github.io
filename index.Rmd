@@ -24,7 +24,8 @@ Dapeng has developed innovative UV absorption diagnostic for multiple species. U
 (4)	Rate Rules: Addressing the challenge of kinetic measurements for large molecules and the needs of automatic kinetic modeling studies, rate rules were measured for three reaction classes using sensitive UV absorption diagnostics. These include OH + alkanes reactions, thermal decomposition of alkenes, and OH + alkenes. These rate rules enhance the predictive accuracy of existing literature models and facilitate automatic modeling studies.
 
 Spectroscopy illustrates the ambiguous pathway of energy conversion:
-<img src="files/research.jpg" style="width:80%; margin-right: 30px" align="center">
+<img src="files/research.jpg" style="width:80%;display: block; margin-left: auto; margin-right: auto;">
+
 </div>
 
 You can find his CV [here](files/Resume_Nov_2024.pdf).
@@ -45,8 +46,6 @@ You can find his CV [here](files/Resume_Nov_2024.pdf).
   <a href="#2017">2017</a>.
 </span>
 </div>
-
-<img src="files/journal_cover.jpg" style="display: block; margin-left: auto; margin-right: auto;">
 
 <h3 id="2025"> 2025</h3> 
 <div>
@@ -136,7 +135,7 @@ You can find his CV [here](files/Resume_Nov_2024.pdf).
 </p>
 </div>
 
-<img src="files/SASCI_award.jpg" style="width:60%; margin-right: 30px" align="center">
+<img src="files/SASCI_award.jpg" style="width:60%;display: block; margin-left: auto; margin-right: auto;">
 
 <h3 id="2023"> 2023</h3> 
 <div>
@@ -182,7 +181,7 @@ Ashkan Beigzadeh, ... ,<u>Dapeng Liu</u>, ..., Aamir Farooq
 </div>
 
 
-<img src="files/XJTU_workshop.jpg" style="width:60%; margin-right: 30px" align="center">
+<img src="files/XJTU_workshop.jpg" style="width:60%;display: block; margin-left: auto; margin-right: auto;">
 
 <h3 id="2022"> 2022</h3> 
 <div>
@@ -241,7 +240,8 @@ Samah Y. Mohamed,  M. Monge-Palacio,Binod Giri, Fethi Khaled, <u>Dapeng Liu</u>,
 </p>
 </div>
 
-<img src="files/B_L_F.jpg" style="width:60%; margin-right: 30px" align="center">
+
+<img src="files/B_L_F.jpg" style="width:60%;display: block; margin-left: auto; margin-right: auto;">
 
 <h3 id="2021"> 2021</h3> 
 <div>
@@ -312,7 +312,7 @@ Hanfeng Jin, Lili Xing, <u>Dapeng Liu</u>, Junyu Hao, Jiuzhong Yang, Aamir Faroo
 </p>
 </div>
 
-<img src="files/journal_cover.jpg" style="width:40%; margin-right: 40px" align="center">
+<img src="files/journal_cover.jpg" style="width:40%;display: block; margin-left: auto; margin-right: auto;">
 
 <h3 id="2020"> 2020</h3> 
 <div>
