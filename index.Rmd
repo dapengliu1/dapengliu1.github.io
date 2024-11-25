@@ -28,7 +28,7 @@ Spectroscopy illustrates the ambiguous pathway of energy conversion:
 
 </div>
 
-You can find his CV [here](files/Resume_Nov_2024.pdf).
+You can find his CV [here](files/Dapeng_resume_Nov_2024.pdf).
 
 
 <h1 id="pub"> Publications</h1>
@@ -50,7 +50,7 @@ You can find his CV [here](files/Resume_Nov_2024.pdf).
 <h3 id="2025"> 2025</h3> 
 <div>
 <span>
-[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218024003274)
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218024005583)
 **Empirical Rate Rules for Hydroxyl Radical Reactions with Alkenes**
 </span><br>
 <span>
