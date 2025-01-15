@@ -51,7 +51,7 @@ You can find his CV [here](files/Dapeng_resume_Nov_2024.pdf).
 <div>
 <span>
 [<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0016236125000250)
-**EInvestigation of 1, 3-Pentadiene thermal decomposition**
+**Investigation of 1, 3-Pentadiene thermal decomposition**
 </span><br>
 <span>
 <u>Dapeng Liu</u>, Aamir Farooq#
