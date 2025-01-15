@@ -50,6 +50,20 @@ You can find his CV [here](files/Dapeng_resume_Nov_2024.pdf).
 <h3 id="2025"> 2025</h3> 
 <div>
 <span>
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0016236125000250)
+**EInvestigation of 1, 3-Pentadiene thermal decomposition**
+</span><br>
+<span>
+<u>Dapeng Liu</u>, Aamir Farooq#
+</span><br>
+<span>
+*Fuel, 2025*
+</span><br>
+</p>
+</div>
+
+<div>
+<span>
 [<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218024005583)
 **Empirical Rate Rules for Hydroxyl Radical Reactions with Alkenes**
 </span><br>
