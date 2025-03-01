@@ -50,7 +50,7 @@ You can find his CV [here](files/Dapeng_resume_Nov_2024.pdf).
 <h3 id="2025"> 2025</h3> 
 <div>
 <span>
-[<i class="fa fa-file-pdf"></i> ](https://authors.elsevier.com/a/1khMj2KiHm22T)
+[<i class="fa fa-file-pdf"></i> ](https://www.sciencedirect.com/science/article/pii/S0010218025001117)
 **Investigation of Cyclopentyl Ring-Opening β-Scission Reaction**
 </span><br>
 <span>
